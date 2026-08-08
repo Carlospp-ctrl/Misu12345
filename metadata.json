@@ -1,0 +1,8 @@
+{
+  "name": "MiSu",
+  "description": "Tu gatito virtual de bienestar emocional, cuidado mutuo y autoestima",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
